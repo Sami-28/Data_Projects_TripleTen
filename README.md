@@ -5,6 +5,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [NYC AirBnB](https://docs.google.com/spreadsheets/d/1G5TgEqhWOZqRaaww82Gbi704Ga1OpakfHnjdn15bFuE/edit?gid=1927156263#gid=1927156263) | This project purpose is to show a brief example of a real estate analysis for an investor client |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 2 | [ProductToProfitandLoss](https://public.tableau.com/app/profile/sami.mozip/viz/Project1_17150487320870/StatesProfitMonths) | We analyze data to find the profit activity of products and take different measures to dimensions |
+| 3 | [ReturnsStoryTellingProject](https://public.tableau.com/app/profile/sami.mozip/viz/StorytellingProject_17173631035020/Story) | In this project, we utilize tableau to analyze different measures through different dimensions of returns happening with superstores throughout seperate states |
+| 4 | [Restaurant Aggregator](https://public.tableau.com/app/profile/sami.mozip/viz/Version3_17190811299450/Story1) | In this project, we'll be looking to analyze the analyze the business performance of restaurants in the area for a multinational restaurant aggregator and food delivery company
